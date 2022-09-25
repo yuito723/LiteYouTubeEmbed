@@ -8,6 +8,10 @@
 * `<link rel="stylesheet" href="https://paulirish.github.io/lite-youtube-embed/lite-yt-embed.css">`
 * `<script src="https://paulirish.github.io/lite-youtube-embed/lite-yt-embed.js"></script>`
 
+※このリポジトリー内のサンプルサイトでは以下のコードを記述しています。(ファイルを取り込んで使用したため)
+* `<link rel="stylesheet" href="./lite-yt-embed.css">`
+* `<script src="./lite-yt-embed.js"></script>`
+
 ## Repository
 * リポジトリーは[こちら](https://github.com/yuito723/LiteYouTubeEmbed/)です。
 
