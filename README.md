@@ -12,6 +12,8 @@
 * `<link rel="stylesheet" href="./lite-yt-embed.css">`
 * `<script src="./lite-yt-embed.js"></script>`
 
+　また、[こちら](https://yuito723.github.io/LiteYouTubeEmbed/LiteYouTubeEmbed_template.html)を右クリックし、「名前を付けてリンク先を保存」でテンプレートをダウンロードできます。
+
 ## Repository
 * リポジトリーは[こちら](https://github.com/yuito723/LiteYouTubeEmbed/)です。
 
