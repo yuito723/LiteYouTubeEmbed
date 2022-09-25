@@ -3,6 +3,11 @@
 * サンプルサイトは[こちら](https://yuito723.github.io/LiteYouTubeEmbed/sample.html)です。
 
 
+## How to use
+　以下のコードをheadタグ内に追加し、`<lite-youtube videoid="ビデオID"></lite-youtube>`を動画を埋め込みたい位置に記述するだけです。
+* `<link rel="stylesheet" href="https://paulirish.github.io/lite-youtube-embed/lite-yt-embed.css">`
+* `<script src="https://paulirish.github.io/lite-youtube-embed/lite-yt-embed.js"></script>`
+
 ## Repository
 * リポジトリーは[こちら](https://github.com/yuito723/LiteYouTubeEmbed/)です。
 
