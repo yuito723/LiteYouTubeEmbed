@@ -5,8 +5,8 @@
 
 ## How to use
 　以下のコードをheadタグ内に追加し、`<lite-youtube videoid="ビデオID"></lite-youtube>`を動画を埋め込みたい位置に記述するだけです。
-* `<link rel="stylesheet" href="https://paulirish.github.io/lite-youtube-embed/lite-yt-embed.css">`
-* `<script src="https://paulirish.github.io/lite-youtube-embed/lite-yt-embed.js"></script>`
+* `<link rel="stylesheet" href="https://paulirish.github.io/lite-youtube-embed/src/lite-yt-embed.css">`
+* `<script src="https://paulirish.github.io/lite-youtube-embed/src/lite-yt-embed.js"></script>`
 
 ※このリポジトリー内のサンプルサイトでは以下のコードを記述しています。(ファイルを取り込んで使用したため)
 * `<link rel="stylesheet" href="./lite-yt-embed.css">`
